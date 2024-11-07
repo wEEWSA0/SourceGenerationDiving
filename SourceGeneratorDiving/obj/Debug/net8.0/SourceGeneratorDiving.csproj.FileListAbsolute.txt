@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\bin\Debug\net8.0\SourceGeneratorDiving.exe
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\bin\Debug\net8.0\SourceGeneratorDiving.deps.json
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\bin\Debug\net8.0\SourceGeneratorDiving.runtimeconfig.json
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\bin\Debug\net8.0\SourceGeneratorDiving.dll
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\bin\Debug\net8.0\SourceGeneratorDiving.pdb
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.AssemblyInfo.cs
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.dll
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\refint\SourceGeneratorDiving.dll
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.pdb
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\SourceGeneratorDiving.genruntimeconfig.cache
+D:\ProgrammingProjects\TestProject\SourceGeneratorDiving\obj\Debug\net8.0\ref\SourceGeneratorDiving.dll

@@ -1,0 +1,11 @@
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.deps.json
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.dll
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.pdb
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.AssemblyInfo.cs
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.dll
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\refint\SourceGenerator.Sample.dll
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.pdb
+D:\ProgrammingProjects\TestProject\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\ref\SourceGenerator.Sample.dll
